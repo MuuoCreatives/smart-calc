@@ -1,4 +1,4 @@
-package co.ke.muuocreatives.smatcalc
+package co.ke.muuocreatives.smartcalc
 
 import org.junit.Test
 
