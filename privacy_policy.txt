@@ -5,8 +5,8 @@ We aim for full transparency on how we gather, use, and share your personal info
 
 
 # Information We Collect
-Currently in version 0.0.1, we do not collect information about you as we have no reason to do so–for example, for providing our Services or for communication with you.
-
+Currently in version 1.0.0, we do not collect any information about you as we have no reason to do so–for example, for providing our Services or for communication with you.
+In subsequent versions, we might do so to improve our services
 
 # Change log
 March 22, 2024: Created privacy policy.
